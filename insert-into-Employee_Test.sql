@@ -1,0 +1,1 @@
+insert into Employee_Test values('Chris',1500);

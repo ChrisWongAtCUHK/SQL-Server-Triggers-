@@ -1,0 +1,1 @@
+delete from Employee_Test where Emp_ID=6
